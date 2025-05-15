@@ -10,8 +10,6 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Lovable - Build something lovable",
-  description: "Idea to app in seconds, with your personal full stack engineer",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
